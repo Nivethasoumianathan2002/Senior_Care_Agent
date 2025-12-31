@@ -1,6 +1,7 @@
 import streamlit as st
 import sqlite3
 import os
+import numpy as np
 import json
 import pandas as pd
 from groq import Groq

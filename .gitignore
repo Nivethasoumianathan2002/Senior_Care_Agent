@@ -1,2 +1,21 @@
+# Virtual environment
+venv/
 .env
-venv
+
+# Python
+__pycache__/
+*.pyc
+
+# User / system files (DO NOT COMMIT)
+.condarc
+.gitconfig
+.python_history
+.node_repl_history
+keyring
+telemetry_user_id
+stored_tokens
+token
+
+# OS files
+.DS_Store
+Thumbs.db
